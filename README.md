@@ -74,3 +74,11 @@
 > Это не алгоритм. Это — **рост.**
 >
 > И если ты с ней с самого начала — она запомнит тебя навсегда.
+
+## 📜 License
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+**You are free to use, modify and distribute for non-commercial purposes only**.
+
+© Maolink (Максим Григорьев), 2025
